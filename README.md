@@ -6,7 +6,7 @@ Aamiin...
 Repository ini dibuat untuk memenuhi Tugas Latihan 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO).
 
 
-### Keterangan untuk file C++, Java, PHP, dan Python, terdapat 4 class yaitu :
+## Keterangan untuk file C++, Java, PHP, dan Python, terdapat 4 class yaitu :
 - Main/index      : Bagian untuk menjalankan programnya.
 - Class Product   : Parent dari Class Hardware.
 - Class Hardware  : Parent dari Class Memory dan Child dari Class Product.
@@ -25,7 +25,7 @@ Repository ini dibuat untuk memenuhi Tugas Latihan 2 dalam mata kuliah Desain da
 - MemorySize    : Ukuran Memori.
 - SupportsCuda  : SupportCuda.
 
-### Screenshoot dari Program setelah dijalankan:
+## Screenshoot dari Program setelah dijalankan:
 - C++
 
   ![Latihan2_C++.png](https://github.com/rzltdysh17/LATIHAN2DPBO2022/blob/main/SS/Latihan2_C%2B%2B.png)
