@@ -26,4 +26,11 @@ Repository ini dibuat untuk memenuhi Tugas Latihan 2 dalam mata kuliah Desain da
 - SupportsCuda  : SupportCuda.
 
 ### Screenshoot dari Program setelah dijalankan:
+- C++
+![Latihan2_C++.png](https://github.com/rzltdysh17/LATIHAN2DPBO2022/blob/main/SS/Latihan2_C%2B%2B.png)
 - Java
+![Latihan2_Java.png](https://github.com/rzltdysh17/LATIHAN2DPBO2022/blob/main/SS/Latihan2_Java.png)
+- PHP
+![Latihan2_PHP.png](https://github.com/rzltdysh17/LATIHAN2DPBO2022/blob/main/SS/Latihan2_PHP.png)
+- Python
+![Latihan2_Puthon.png](https://github.com/rzltdysh17/LATIHAN2DPBO2022/blob/main/SS/Latihan2_Python.png)
